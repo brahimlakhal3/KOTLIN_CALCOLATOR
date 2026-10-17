@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "com.brahim.calculator";
+option java_multiple_files =  true;
+
+message History {
+    string title = 1;
+    string content = 2;
+    string date_time = 3;
+}
+
+message HistoryList {
+    repeated History Histories = 1;
+}
+
+message AppConfig {
+    string default_language = 1;
+    string default_mode = 2;
+}

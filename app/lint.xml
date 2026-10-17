@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="Typos">
+        <ignore path="src/main/res/values/strings.xml" />
+        <ignore path="src/main/res/values-en/strings.xml" />
+    </issue>
+
+    <issue id="ObsoleteSdkInt">
+        <ignore path="src/main/res/mipmap-anydpi-v26" />
+    </issue>
+</lint>

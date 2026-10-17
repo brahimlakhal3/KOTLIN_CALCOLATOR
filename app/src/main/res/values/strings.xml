@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="app_tagline">Calcul rapide et élégant</string>
+    <string name="menu">Ouvrir le menu</string>
+    <string name="screen_calculator">Calculatrice</string>
+    <string name="screen_history">Historique</string>
+    <string name="screen_settings">Paramètres</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="history_description">Ouvrir l\'historique</string>
+    <string name="backspace_description">Effacer un caractère</string>
+    <string name="scientific_description">Fonctions scientifiques</string>
+    <string name="reuse">Réutiliser</string>
+    <string name="copied">Copié</string>
+    <string name="history_title">Historique des calculs</string>
+    <string name="history_empty">Aucun calcul</string>
+    <string name="history_empty_hint">Vos calculs enregistrés apparaîtront ici.</string>
+    <string name="clear">Effacer</string>
+    <string name="clear_history_title">Effacer l\'historique ?</string>
+    <string name="clear_history_text">Tous les calculs enregistrés seront supprimés définitivement.</string>
+    <string name="cancel">Annuler</string>
+    <string name="appearance">Apparence</string>
+    <string name="theme_system">Auto</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+    <string name="language">Langue</string>
+    <string name="language_french">Français</string>
+    <string name="language_english">English</string>
+    <string name="data">Données</string>
+    <string name="about">À propos</string>
+    <string name="app_version">Version %1$s</string>
+    <plurals name="history_count">
+        <item quantity="one">%1$d calcul enregistré</item>
+        <item quantity="other">%1$d calculs enregistrés</item>
+    </plurals>
+</resources>
