@@ -9,11 +9,11 @@ type, a scientific keypad, a saved history, French and English — all wrapped i
 ![Material 3](https://img.shields.io/badge/Material%203-cold%20red-BB074C)
 
 <p align="center">
-  <img src="docs/screenshots/home.jpg" width="1080" alt="Calculator, Home">
+  <img src="docs/screenshots/home.jpg" width="250" alt="Calculator, Home">
   &nbsp;&nbsp;
-  <img src="docs/screenshots/setting.jpg" width="1080" alt="Calculator, Setting">
+  <img src="docs/screenshots/setting.jpg" width="250" alt="Calculator, Setting">
   &nbsp;&nbsp;
-  <img src="docs/screenshots/history.jpg" width="1080" alt="Calculator, History">
+  <img src="docs/screenshots/history.jpg" width="250" alt="Calculator, History">
 </p>
 
 ## Features
@@ -33,15 +33,6 @@ type, a scientific keypad, a saved history, French and English — all wrapped i
 - **Adaptive launcher icon** — vector foreground, cold-red plate and a monochrome layer for themed
   icons.
 - **Small release** — R8 and resource shrinking bring the release APK down to ~2.3 MB.
-
-## Brand
-
-The palette is the "cold red" scale the whole UI is built from — crimson for the accent, rose for
-containers, plum for the scientific keys, warm neutrals for surfaces.
-
-<p align="center">
-  <img src="docs/screenshots/brand.png" width="720" alt="Launcher icon and brand palette">
-</p>
 
 ## Tech stack
 
